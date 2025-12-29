@@ -1,1 +1,1 @@
-# terraform-docker-the-serverless-way
+# terraform-docker-ecs-the-serverless-way
