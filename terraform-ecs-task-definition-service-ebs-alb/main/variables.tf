@@ -75,7 +75,7 @@ variable "kms_key_id" {
   type = string
 }
 
-######################################################### Variables to create ALB for Jenkins ################################################################
+######################################################### Variables to create ALB for ECS Traffic ################################################################
 
 variable "application_loadbalancer_name" {
   description = "Provide the Application Loadbalancer Name"
